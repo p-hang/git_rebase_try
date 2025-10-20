@@ -2,3 +2,5 @@ Hello
 Hello again.
 This is a random text.
 
+This line is a random line!
+This is a random line too.
