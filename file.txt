@@ -1,4 +1,5 @@
 Hello
+Test changes in feature branch.
 Hi from feature.
 Hello again.
 This is a random text.
